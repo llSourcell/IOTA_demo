@@ -5,7 +5,8 @@
    :target: http://pyota.readthedocs.io/en/latest/?badge=latest
 
 
-This is the code for [this](https://www.youtube.com/watch?v=B37UbzPlSzw) video on Youtube by Siraj Raval on IOTA. 
+This is the code for [this](https://www.youtube.com/watch?v=B37UbzPlSzw) video on Youtube by Siraj Raval on IOTA.
+
 =====
 PyOTA
 =====
