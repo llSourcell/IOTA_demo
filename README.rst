@@ -4,6 +4,8 @@
 .. image:: https://readthedocs.org/projects/pyota/badge/?version=latest
    :target: http://pyota.readthedocs.io/en/latest/?badge=latest
 
+
+This is the code for [this](https://www.youtube.com/watch?v=B37UbzPlSzw) video on Youtube by Siraj Ravl on IOTA. 
 =====
 PyOTA
 =====
@@ -76,3 +78,5 @@ For the full documentation of this library, please refer to the
 .. _dedicated forum: https://forum.iota.org/
 .. _official API: https://iota.readme.io/
 .. _tox: https://tox.readthedocs.io/
+
+Credits for the code go to IOTA, I've merely created a wrapper to get people started. 
